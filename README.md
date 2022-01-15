@@ -1,0 +1,2 @@
+# Help
+mengenal dunia scripting
